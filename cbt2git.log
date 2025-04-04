@@ -1,0 +1,4 @@
+2025-04-04 13:26:30.782301 - Received CBT.V508.FILE660.PDS from FILE660.XMI 
+2025-04-04 13:26:30.782871 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE660.PDS, moved to PDS/$$$#DATE
+2025-04-04 13:26:30.783009 - Found @FILE660.txt (text/plain) in CBT.V508.FILE660.PDS, moved to PDS/@FILE660
+2025-04-04 13:26:30.783161 - Found REXXER.rexx (text/plain) in CBT.V508.FILE660.PDS, moved to PDS/REXXER
